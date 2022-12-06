@@ -21,4 +21,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gcarreiras&show_icons=true&locale=en" alt="gcarreiras" /></p>
 
+🔭 I’m currently working on Henry's Final Project: Trés bien (an e-commerce)
+https://tres-bien-app.vercel.app/
+
+🌱 I’m currently honing everything I know and trying to learn TypeScript, NextJs and NestJs
+
  
