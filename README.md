@@ -24,6 +24,6 @@
 🔭 I’m currently working on Henry's Final Project: Trés bien (an e-commerce)
 https://tres-bien-app.vercel.app/
 
-🌱 I’m currently honing everything I know and trying to learn TypeScript, NextJs and NestJs
+🌱 I’m currently honing everything I know and trying to learn TypeScript, Phyton and Django
 
  
