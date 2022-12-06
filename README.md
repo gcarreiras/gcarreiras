@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/gaston-ariel-carreiras-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gaston-ariel-carreiras-" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/gaston-carreiras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gaston-ariel-carreiras-" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,8 +21,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gcarreiras&show_icons=true&locale=en" alt="gcarreiras" /></p>
 
+
 🔭 I’m currently working on Henry's Final Project: Trés bien (an e-commerce)
 https://tres-bien-app.vercel.app/
+
+![TresBien](https://user-images.githubusercontent.com/86634827/205797007-501adffe-590d-4766-9ff0-2c4c6931e661.png)
+
 
 🌱 I’m currently honing everything I know and trying to learn TypeScript, Phyton and Django
 
