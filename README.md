@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+css3 express html5 javascript mongodb nestjs nextjs nodejs postgresql react redux typescript
+
+ 
