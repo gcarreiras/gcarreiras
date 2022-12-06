@@ -1,6 +1,6 @@
 ### Hola 👋 soy Gaston Carreiras
 
-https://raw.githubusercontent.com/gcarreiras/gcarreiras/edit/main/Untitl22ed.png
+https://github.com/gcarreiras/gcarreiras/blob/main/Untitl22ed.png
 
 <!--
 **gcarreiras/gcarreiras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
