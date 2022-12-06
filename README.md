@@ -1,6 +1,6 @@
 ### Hola 👋 soy Gaston Carreiras
 
-https://media-exp1.licdn.com/dms/image/D4D16AQEKfrBIUN7ndw/profile-displaybackgroundimage-shrink_350_1400/0/1670285169197?e=1675900800&v=beta&t=WmtLSSt8CH_-hCWzh2gr2I841Ibwnh9yXk5CkLgDTtA
+https://raw.githubusercontent.com/gcarreiras/gcarreiras/edit/main/Untitl22ed.png
 
 <!--
 **gcarreiras/gcarreiras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
